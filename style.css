@@ -1,6 +1,7 @@
 body {
     max-width: 1440px;
     background-color: #F3E5D8; 
+    padding: 20px;
 }
 
 
@@ -146,7 +147,7 @@ main {
         width: 250px;
     }
 
-    .container4, .container5,{
+    .container4, .container5{
         width: 80%;
     }
 }   
